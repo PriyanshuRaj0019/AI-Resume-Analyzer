@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "A modern, professional resume analyzer that extracts skills, strengths, and missing skills from PDF resumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
