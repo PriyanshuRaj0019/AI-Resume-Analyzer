@@ -60,7 +60,7 @@ npm start
 
 ## Deployment
 
-The application is deployed using Google Cloud Run and can be accessed through the live demo link above.
+The application is deployed using Google Cloud Run and can be accessed through the live demo link given above.
 
 ## Future Enhancements
 
